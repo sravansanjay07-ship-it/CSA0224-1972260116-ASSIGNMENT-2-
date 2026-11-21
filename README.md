@@ -1,8 +1,6 @@
 # CSA0224-1972260116-ASSIGNMENT-2-
 # CO2 Assignment 2
 
-# CO2 Assignment 2
-
 ## Student Details
 - **Name:** B Sravan Sanjay
 - **Register Number:** 1972260116
